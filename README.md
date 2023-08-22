@@ -6,9 +6,9 @@
 
 ```js
 const Cristopher = {
- >> pronouns: "he" | "him",
- >> code: [C#, Java, Kotlin, Javascript,  HTML, CSS],
- >> tools: [React, ReactNative, Node, .Net, Express, Git],
+     pronouns: "he" | "him",
+     code: [C#, Java, Kotlin, Javascript,  HTML, CSS],
+     tools: [React, ReactNative, Node, .Net, Express, Git],
  }
  
  ```
