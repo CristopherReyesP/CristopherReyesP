@@ -8,7 +8,7 @@ Hi, I`m Cristopher 👋
 const Cristopher = {
   pronouns: "he" | "him",
   code: [C#, Java, Kotlin, Javascript,  HTML, CSS],
-  tools: [React, ReactNative, Node, .Net],
+  tools: [React, ReactNative, Node, .Net, Express, Git],
  }
  
  ```
