@@ -7,8 +7,8 @@ Hi, I`m Cristopher 👋
 ```js
 const Cristopher = {
   pronouns: "he" | "him",
-  code: [Python, Java, Javascript, Kotlin, HTML, CSS],
-  tools: [React, ReactNative, Node, Docker, Django],
+  code: [C#, Java, Kotlin, Javascript,  HTML, CSS],
+  tools: [React, ReactNative, Node, .Net],
  }
  
  ```
@@ -17,4 +17,5 @@ const Cristopher = {
 
 - <a href="https://www.linkedin.com/in/cristopher-alexander-reyes-portillo-b3521ab1//">LinkedIn</a> 💼
 - <a href="https://www.youtube.com/channel/UCQrrksi0aKZICQPhqRGXF5Q/featured">Youtube</a>🎥
+- <a href="https://cristopherreyes.tech/">Portfolio</a> 💼
 
