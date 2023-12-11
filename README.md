@@ -13,7 +13,8 @@ const Cristopher = {
  
  ```
 ## 💁 About me.
-I'm a freelance developer who builds software for himself and for his clients, but are you a recruiter? feel free to contact me I'm willing to work for a company. All coding projects are built from scratch, from planning and design to solving real life problems with code.
+¿Por qué me considero un desarrollador fullstack?
+Soy un desarrollador de software que se dedica a crear soluciones de software en la web. Para ello, es necesario tener conocimientos sobre bases de datos, sistemas operativos, deploy, backend, front end, ui, entre otros. No me gusta encasillarme solamente como backend o frontend, ya que creo que es importante tener conocimientos en todas las capas de una aplicación web.
 
 ## You can find me 🌎:
 
