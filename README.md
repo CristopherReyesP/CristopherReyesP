@@ -7,8 +7,8 @@
 ```js
 const Cristopher = {
      pronouns: "he" | "him",
-     code: [C#, Java, Kotlin, Javascript, Node,  HTML, CSS],
-     tools: [React, ReactNative, Android, .Net, Express, Git],
+     code: [C#, Java, Kotlin, Javascript],
+     tools: [React, ReactNative, Android, .Net, Express, Spring, Git],
  }
  
  ```
@@ -18,6 +18,6 @@ I'm a freelance developer who builds software for himself and for his clients, b
 ## You can find me 🌎:
 
 - <a href="https://www.linkedin.com/in/cristopher-alexander-reyes-portillo-b3521ab1//">LinkedIn</a> 💼
-- <a href="https://www.youtube.com/channel/UCQrrksi0aKZICQPhqRGXF5Q/featured">Youtube</a>🎥
+- <a href="https://www.youtube.com/channel/UCMp2wXUR_U1wN4r9JfrqCrA">Youtube</a>🎥
 - <a href="https://cristopherreyes.tech/">Portfolio</a> 💼
 
