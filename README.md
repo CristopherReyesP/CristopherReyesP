@@ -8,7 +8,7 @@
 const Cristopher = {
      pronouns: "he" | "him",
      code: [C#, Java, Kotlin, Javascript],
-     tools: [React, ReactNative, Android, .Net, Express, Spring, Git],
+     tools: [Angular, React, ReactNative, Android, .Net, Express, Spring, Git],
  }
  
  ```
