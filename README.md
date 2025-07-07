@@ -7,8 +7,8 @@
 ```js
 const Cristopher = {
      pronouns: "he" | "him",
-     code: [C#, Java, Kotlin, Javascript],
-     tools: [Angular, React, ReactNative, Android, .Net, Express, Spring, Git],
+     code: [C#, Java, Kotlin, Javascript, Typescript],
+     tools: [Angular, React, ReactNative, Android, .Net, Express, Spring, Git, NestJs],
  }
  
  ```
