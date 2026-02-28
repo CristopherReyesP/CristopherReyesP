@@ -5,12 +5,20 @@
 <a href="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" ><img align="left" width="150" height="150" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif"/></a>
 
 ```js
-const Cristopher = {
-     pronouns: "he" | "him",
-     code: [C#, Java, Kotlin, Javascript, Typescript],
-     tools: [Angular, React, ReactNative, Android, .Net, Express, Spring, Git, NestJs],
- }
- 
+
+ class Cristopher extends Engineer {
+  constructor() {
+    super();
+    this.specialty = "Scalable Backend Systems";
+    this.stack = ["NestJS", ".NET", "Oracle", "React"];
+    this.mindset = "Architecture > Code";
+    this.mode = "Ship. Measure. Improve.";
+  }
+
+  build() {
+    return "APIs that survive production.";
+  }
+}
  ```
 ## 💁 About me.
 ¿Por qué me considero un desarrollador fullstack?
