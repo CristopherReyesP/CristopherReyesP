@@ -26,7 +26,7 @@ Soy un desarrollador de software que se dedica a crear soluciones de software en
 
 ## You can find me 🌎:
 
-- <a href="https://www.linkedin.com/in/cristopher-alexander-reyes-portillo-b3521ab1//">LinkedIn</a> 💼
+- <a href="https://www.linkedin.com/in/cristopherrp">LinkedIn</a> 💼
 - <a href="https://www.youtube.com/channel/UCMp2wXUR_U1wN4r9JfrqCrA">Youtube</a>🎥
 - <a href="https://cristopherreyesp-portafolio.onrender.com/">Portfolio</a> 💼
 
