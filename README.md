@@ -53,17 +53,6 @@ I started out wanting to understand every layer of a web application: databases,
 
 <sub>Also comfortable with React, Vite and SQL Server.</sub>
 
-## Featured projects
-
-| Project | What it is | Stack |
-| --- | --- | --- |
-| [portafolio2026](https://github.com/CristopherReyesP/portafolio2026) | My portfolio: backend case studies, technical notes and CV (EN/ES) | HTML · CSS · vanilla JS · Node test runner |
-| [Linea-Muerta-Juego](https://github.com/CristopherReyesP/Linea-Muerta-Juego) | Real-time multiplayer mini-games with a Socket.io game server and WebRTC voice | Node.js · TypeScript · Express · Socket.io · React |
-| [hormigas](https://github.com/CristopherReyesP/hormigas) | Ant colony simulation game that runs in the browser | TypeScript · React · Vite |
-| [cotizador](https://github.com/CristopherReyesP/cotizador) · [BDCotizador](https://github.com/CristopherReyesP/BDCotizador) | Package shipping quote system: backend and relational data model (2023) | Java · Gradle · SQL |
-
-My older repositories (2020–2023) are learning projects. I keep them public as part of my history.
-
 ## Find me
 
 - Portfolio: [cristopherreyesp-portafolio.onrender.com](https://cristopherreyesp-portafolio.onrender.com)
