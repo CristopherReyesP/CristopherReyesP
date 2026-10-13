@@ -47,13 +47,9 @@ I started out wanting to understand every layer of a web application: databases,
 
 ### [transfers-saga](https://github.com/CristopherReyesP/transfers-saga)
 
-A production-style NestJS + Oracle transfer service modeled as an orchestrated Saga. It demonstrates idempotency, `FOR UPDATE NOWAIT` concurrency control, timeout reconciliation, compensating transactions, hexagonal architecture and automated tests with Testcontainers.
+A NestJS + Oracle money-transfer service modeled as an orchestrated Saga. It demonstrates idempotency keys, `FOR UPDATE NOWAIT` concurrency control, status checks after credit timeouts, compensating transactions, hexagonal architecture and automated tests with Testcontainers.
 
-### [Hormigas](https://github.com/CristopherReyesP/hormigas)
-
-A real-time ant colony simulation built in TypeScript without a game engine. The project includes a custom ECS, fixed-timestep game loop, A* pathfinding, Canvas rendering, autonomous agents, benchmarks and automated tests.
-
-### [Portfolio](https://cristopherreyesp-portafolio.onrender.com)
+### [Portfolio](https://cristopherreyesp.github.io/portafolio2026/)
 
 Case studies and technical notes focused on backend engineering, distributed systems, OpenShift and production problem solving.
 
@@ -69,6 +65,6 @@ Case studies and technical notes focused on backend engineering, distributed sys
 
 ## Find me
 
-- Portfolio: [cristopherreyesp-portafolio.onrender.com](https://cristopherreyesp-portafolio.onrender.com)
+- Portfolio: [cristopherreyesp.github.io/portafolio2026](https://cristopherreyesp.github.io/portafolio2026/)
 - LinkedIn: [linkedin.com/in/cristopherrp](https://www.linkedin.com/in/cristopherrp/)
 - YouTube: [my channel](https://www.youtube.com/channel/UCMp2wXUR_U1wN4r9JfrqCrA)
