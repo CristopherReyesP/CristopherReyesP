@@ -43,6 +43,20 @@ I started out wanting to understand every layer of a web application: databases,
 - Integrations between systems with different contracts and owners.
 - APIs other teams can rely on: clear contracts, predictable errors and secure access.
 
+## Selected work
+
+### [transfers-saga](https://github.com/CristopherReyesP/transfers-saga)
+
+A production-style NestJS + Oracle transfer service modeled as an orchestrated Saga. It demonstrates idempotency, `FOR UPDATE NOWAIT` concurrency control, timeout reconciliation, compensating transactions, hexagonal architecture and automated tests with Testcontainers.
+
+### [Hormigas](https://github.com/CristopherReyesP/hormigas)
+
+A real-time ant colony simulation built in TypeScript without a game engine. The project includes a custom ECS, fixed-timestep game loop, A* pathfinding, Canvas rendering, autonomous agents, benchmarks and automated tests.
+
+### [Portfolio](https://cristopherreyesp-portafolio.onrender.com)
+
+Case studies and technical notes focused on backend engineering, distributed systems, OpenShift and production problem solving.
+
 ## Stack
 
 **Core** — NestJS · TypeScript · Node.js · .NET / C# · Oracle · REST APIs
